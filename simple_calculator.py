@@ -20,7 +20,7 @@ print("2.Subtract")
 print("3.Multiply")
 print("4.Divide")
 
-# Take input from the user 
+# Here we take the input from the user 
 choice = input("Enter choice(1/2/3/4):")
 
 num1 = int(input("Enter first number: "))
