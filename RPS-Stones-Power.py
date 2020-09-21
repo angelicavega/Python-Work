@@ -1,6 +1,6 @@
 #Problem Set 1
 #Name: Angelica Vega-Aponte
-#Time Spent: 1 hour
+#Time Spent: 60 minutes
 #Last Modified: Sept. 27, 2017
 def rps():
 
