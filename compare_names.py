@@ -1,7 +1,3 @@
-
-
-#another solution
-
 def comparenames(inputname, yourname, othername1, othername2, othername3):
     if (inputname == yourname):
         print('this is a nice name')
