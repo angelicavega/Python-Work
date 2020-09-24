@@ -1,9 +1,9 @@
-#user inputs values for variables
+#Here we take the input value from the user
 outstanding_balance = float(input('Enter the outstanding balance on your credit card:'))
 annual_interest_rate = float(input('Enter the annual credit card interest rate as a decimal:'))
 minimum_monthly_payment_rate = float(input('Enter the minimum monthly payment rate as a decimal:'))
 
-#define a function using the variables
+#Here we define a function using the variables
 def compute_debt():
   for x in range(1,13):
     minimum_monthly_payment = minimum_monthly_payment_rate*outstanding_balance
@@ -15,10 +15,6 @@ def compute_debt():
     print('Principle paid:', principle_paid)
     print('Remaining balance:', remaining_balance)
 
-#execute function
+#Here we call the function
 compute_debt()
 
-
-
-
-##Do not submit this! Use it as reference!
