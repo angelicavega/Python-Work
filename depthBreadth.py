@@ -4,7 +4,7 @@ import time
 
 
 
-#Attempt to create a 5x5 Grid
+#Here we attempt to create a 5x5 Grid
 for iter in range(5):
    
     n = 5
