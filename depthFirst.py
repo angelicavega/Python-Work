@@ -1,3 +1,4 @@
+#Depth First Search Algorithm is being implemented in this code
 class Node:
   def __init__(self, value):
     self.value = value
