@@ -1,3 +1,4 @@
+#Simple Python Calculator that calculates the distance and area of a circle
 import math
 
 def distance(x1,x2,y1,y2):
