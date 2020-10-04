@@ -1,3 +1,4 @@
+#Simple Python Calculator
 # This function adds two numbers 
 def add(num1, num2):
    return num1 + num2
