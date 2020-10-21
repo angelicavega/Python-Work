@@ -1,3 +1,4 @@
+#code that uses genetic algorithm to return random string output
 charset = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ ")
 outcome = ['H', 'E', 'L', 'L', 'O']
 stringLength = len(outcome)
