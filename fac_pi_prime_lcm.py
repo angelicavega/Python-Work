@@ -1,5 +1,3 @@
-#Problem 2
-
 import math
 
 
@@ -31,9 +29,7 @@ def estimate_pi():
 
 print(estimate_pi())
 
-#Problem 3
 
-import math
 def is_prime(num):
     if num > 1:
         if num == 2:
