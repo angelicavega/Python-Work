@@ -1,6 +1,6 @@
 import numpy as np, random, operator, pandas as pd, matplotlib.pyplot as plt
 
-#For this section I will create a new Alien World class that will help determine the fitness, route, population, distance, individual ranking, mating pool, and generation.
+#This section creates a new Alien World class that will help determine the fitness, route, population, distance, individual ranking, mating pool, and generation.
 class World:
     def __init__(self, x, y):
         self.x = x
