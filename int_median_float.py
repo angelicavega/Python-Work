@@ -1,3 +1,4 @@
+#Python code that finds the median of a number from user input
 from_user = map(int, input("Enter space separated numbers: ").split())
 def median(from_user):
     set_from_user = list(from_user)
