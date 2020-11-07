@@ -1,4 +1,4 @@
-#Problem 1
+#Python Code that estimates price for users
 
 def weeks(initialprice, numberofweeks):
     if numberofweeks=='2':
@@ -18,4 +18,4 @@ initialprice = input('Enter Price:')
 numberofweeks = input('Enter Number of Weeks between 2-5:')
 print(weeks(int(initialprice), int(numberofweeks)))
 
-#Problem 2
+
