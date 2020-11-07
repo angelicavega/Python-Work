@@ -1,4 +1,4 @@
-#Here is a simple python password function
+#Python code that creates a random password
 lengthGood = False
 charGood = True
 symbolGood = False
