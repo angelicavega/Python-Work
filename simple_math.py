@@ -1,4 +1,4 @@
-#Problem 1
+#Python code that incorporates simple math operations for users
 import math
 def top():
     print ('******************')
@@ -13,7 +13,6 @@ side(int(value))
 top()
 
 
-#Problem 2
 
 #add two numbers
 def add(x,y):
@@ -29,7 +28,7 @@ def multiply(x,y):
 def divide(x,y):
     return x/y
 
-#Problem 3
+#Python code that finds cost, profit, and revenue
 
 def profit(price):
     return revenue(price)- cost(price)
