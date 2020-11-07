@@ -1,3 +1,5 @@
+#Serving as an introductory task in my first python class, 
+#this python code simply swaps between the cheese and citites values using placeholders
 def swap(b,h,k):
     placeholder = b[h]
     b[h]= b[k]
