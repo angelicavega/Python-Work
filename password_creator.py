@@ -1,4 +1,4 @@
-#Python code that creates a random password
+#Python code that creates a password for a user following specific formatting
 lengthGood = False
 charGood = True
 symbolGood = False
